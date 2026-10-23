@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Palworld-Save-Editor` · Updated: 2026-10-07
+`Palworld-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `palworld` `save-editor` `pokemon-like` `survival` `steam`
